@@ -45,7 +45,4 @@
       <block type="movement_stop" id="189"></block>
     </next>
   </block>
-  <block type="logic_operation" id="105" inline="true" x="61" y="380">
-    <field name="OP">LAND</field>
-  </block>
 </xml>
